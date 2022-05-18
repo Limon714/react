@@ -1,10 +1,10 @@
 import React from 'react'
 import State from './State'
-import Index from './EventHandler/Index'
+import Binding from './EventBinding/Bind'
 export default function App() {
   return (
     <div>
-      <h1> <Index /></h1> 
+      <h1> <Binding /></h1> 
        
     </div>
   )
