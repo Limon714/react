@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    background-color: purple;
+    text-align: center;
+    color: aliceblue;
+    width: 100%;
+}
+.boldi{
+    font-size: 2rem;
+}
+.card{
+    background-color: #ffda77;
+    box-shadow: 2px 4px 3px #584b25;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    width: 150px;
+    display: inline-block;
+    text-align: center;
+}

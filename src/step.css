@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(37, 2, 70);
+    color: aliceblue;
+    text-align: center;
+}
+button{
+    padding: 15px;
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
